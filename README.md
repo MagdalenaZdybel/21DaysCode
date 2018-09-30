@@ -5,7 +5,7 @@ creation lesson plan for school
 /planning/
 technology stack:
 SQL/PostgreSQL
-Python
+Python/Django
 JS
 html
 css
